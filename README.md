@@ -10,7 +10,7 @@
 
 ## 🚩 Demo in Laptop Screen
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5fd7c51e-0cf9-436f-be3b-b6a35ae3ac88/deploy-status)](https://app.netlify.com/sites/aesthetic-sorbet-836ebb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b09718a0-b836-43a6-8e2b-01227f0764a9/deploy-status)](https://app.netlify.com/sites/bejewelled-fudge-c34b2f/deploys)
 
 
 ## Time to finish the project
